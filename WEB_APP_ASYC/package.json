@@ -1,0 +1,12 @@
+{
+  "name": "WEB_APP_ASYC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promiseObj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
