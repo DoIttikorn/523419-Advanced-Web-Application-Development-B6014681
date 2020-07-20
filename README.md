@@ -4,4 +4,4 @@ SUT B6014681
 
 study Angular + node.js + mongoDB 
 
-and file and github for Final term
+but file on github for Final term
